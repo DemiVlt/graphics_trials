@@ -1,0 +1,10 @@
+^C:\USERS\DEMIVOLT\.CARGO\REGISTRY\SRC\INDEX.CRATES.IO-6F17D22BBA15001F\GLFW-SYS-5.0.0+3.3.9\GLFW\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Demivolt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-sys-5.0.0+3.3.9/glfw -BC:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build --check-stamp-file C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

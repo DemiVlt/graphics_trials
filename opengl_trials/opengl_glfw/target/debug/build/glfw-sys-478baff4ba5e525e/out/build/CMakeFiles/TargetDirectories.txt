@@ -1,0 +1,7 @@
+C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build/CMakeFiles/uninstall.dir
+C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build/CMakeFiles/INSTALL.dir
+C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build/src/CMakeFiles/update_mappings.dir
+C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build/src/CMakeFiles/glfw.dir
+C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/build/src/CMakeFiles/INSTALL.dir
