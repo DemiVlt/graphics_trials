@@ -1,8 +1,0 @@
-C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/lib/glfw3.lib
-C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/include/GLFW/glfw3.h
-C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/include/GLFW/glfw3native.h
-C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/lib/cmake/glfw3/glfw3Config.cmake
-C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
-C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/lib/cmake/glfw3/glfw3Targets.cmake
-C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
-C:/Users/Demivolt/Documents/Programming/Rust/opengl_trials/opengl_glfw/target/debug/build/glfw-sys-478baff4ba5e525e/out/lib/pkgconfig/glfw3.pc
